@@ -13,7 +13,7 @@ select
     , w.backup_wish
     , w.favorite_color
     , w.color_count
-        , case t.difficulty_to_make
+    , case t.difficulty_to_make
         when 1 then 'Simple Gift'
         when 2 then 'Moderate Gift'
         else 'Complex Gift'
