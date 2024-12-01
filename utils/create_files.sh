@@ -4,7 +4,7 @@ read -p "year: " year
 read -p "day in 2-digit format: " day
 
 year_folder="year$year"
-day_folder="Day_$day"
+day_folder="day$day"
 
 cd $year_folder
 
