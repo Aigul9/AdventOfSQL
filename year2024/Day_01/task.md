@@ -2,16 +2,19 @@ Santa's workshop is modernizing! Gone are the days of paper wish lists and manua
 
 The challenge: Create a report that helps Santa and the elves understand:
 
-Each child's primary and backup gift choices
-Their color preferences
-How complex each gift is to make
-Which workshop department should handle the creation
+- Each child's primary and backup gift choices
+- Their color preferences
+- How complex each gift is to make
+- Which workshop department should handle the creation
+
 "Ho ho ho!" Santa chuckled, reviewing the new database. "This will help us work much more efficiently! But we need a query to make sense of all this data."
 
 Unfortunately the elves stored the wishes in JSON, so you're going to have to parse out the children's wishes.
 
 The challenge 🎁
+
 Download challenge data
+
 Create a report showing what gifts children want, with difficulty ratings and categorization.
 
 The primary wish will be the first choice
