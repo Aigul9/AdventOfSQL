@@ -28,19 +28,20 @@ Gift complexity can be mapped from the toy difficulty to make. Assume the follow
 
 We assign the workshop based on the primary wish's toy category. Assume the following:
 
-outdoor = Outside Workshop
-educational = Learning Workshop
-all other types = General Workshop
-Order the list by name in ascending order.
+    outdoor = Outside Workshop
+    educational = Learning Workshop
+    all other types = General Workshop
+    Order the list by name in ascending order.
 
 Your answer should return only 5 rows
 
 In the inputs below provide one row per input in the format, with no spaces and comma separation:
 
-name,primary_wish,backup_wish,favorite_color,color_count,gift_complexity,workshop_assignment
+    name,primary_wish,backup_wish,favorite_color,color_count,gift_complexity,workshop_assignment
+
 You can achieve this by setting the following in your psql before running your query.
 
-\pset format unaligned
-\pset fieldsep ','
+    \pset format unaligned
+    \pset fieldsep ','
 
 You answered correctly 🎉
