@@ -1,3 +1,5 @@
+## Santa's Gift List Parser
+
 Santa's workshop is modernizing! Gone are the days of paper wish lists and manual sorting. The elves have implemented a new digital system to handle the millions of Christmas wishes they receive. However, Santa needs a way to quickly understand what each child wants and how to optimize workshop operations.
 
 The challenge: Create a report that helps Santa and the elves understand:
@@ -11,7 +13,7 @@ The challenge: Create a report that helps Santa and the elves understand:
 
 Unfortunately the elves stored the wishes in JSON, so you're going to have to parse out the children's wishes.
 
-The challenge 🎁
+## The challenge 🎁
 
 Download challenge data
 
