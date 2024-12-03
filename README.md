@@ -1,3 +1,3 @@
 # AdventOfSQL
 
-My solutions to SQL-challenges published at https://adventofsql.com/
+My solutions to SQL-challenges published on https://adventofsql.com/
