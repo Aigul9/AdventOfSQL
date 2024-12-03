@@ -17,7 +17,7 @@ Help Mrs. Claus write a SQL query that can:
 3. Extract the food_item_ids from those successful big dinners
 4. From this enormous list of items, determine which dish (by food_item_id) appears most frequently across all of the dinners.
 
-5. Input the food_item_id of the food item that appears the most often.
+Input the food_item_id of the food item that appears the most often.
 
 
 You answered correctly 🎉
