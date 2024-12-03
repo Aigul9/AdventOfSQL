@@ -5,14 +5,14 @@ with extracted as (
     from christmas_menus
 ),
 parsed as (
-select
-    menu_data,
-    version,
-    case version
-        when '1.0' then (xpath('//total_count/text()', menu_data))[1]::text::integer
-        when '2.0' then (xpath('//total_guests/text()', menu_data))[1]::text::integer
-        when '3.0' then (xpath('//total_present/text()', menu_data))[1]::text::integer
-      end as num_guests
+    select
+        menu_data,
+        version,
+        case version
+            when '1.0' then (xpath('//total_count/text()', menu_data))[1]::text::integer
+            when '2.0' then (xpath('//total_guests/text()', menu_data))[1]::text::integer
+            when '3.0' then (xpath('//total_present/text()', menu_data))[1]::text::integer
+        end as num_guests
     from extracted
 ),
 dishes as (
