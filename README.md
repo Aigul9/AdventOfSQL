@@ -2,7 +2,7 @@
 
 My solutions to SQL-challenges published on https://adventofsql.com/
 
-Skills recalled:
+### Skills recalled
 
 1. JSON, Case, Joins
 2. UNION, CTE, ASCII, String agg
