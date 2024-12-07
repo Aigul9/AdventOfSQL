@@ -10,3 +10,4 @@ My solutions to SQL-challenges published on https://adventofsql.com/
 4. Array functions, SET operations
 5. LAG, ROUND, Window functions
 6. Subquery, Aggregates
+7. CTE, Window functions
