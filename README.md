@@ -13,3 +13,4 @@ My solutions to SQL-challenges published on https://adventofsql.com/
 7. CTE, Window functions
 8. Recursive CTE
 9. CTE, Aggregate functions
+10. CTE, Pivot
