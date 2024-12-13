@@ -14,3 +14,6 @@ My solutions to SQL-challenges published on https://adventofsql.com/
 8. Recursive CTE
 9. CTE, Aggregate functions
 10. CTE, Pivot
+11. Average over, Window functions
+12. Percentile, Window functions
+13. Window functions, Temporary tables, Array agg
