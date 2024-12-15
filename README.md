@@ -18,3 +18,4 @@ My solutions to SQL-challenges published on https://adventofsql.com/
 12. Percentile, Window functions
 13. Window functions, Temporary tables, Array agg
 14. Array functions, JSON functions
+15. Geometry

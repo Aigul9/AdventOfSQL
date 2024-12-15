@@ -6,3 +6,4 @@ select
 from areas
 	cross join sleigh_locations
 where ST_Intersects(coordinate, polygon);
+--ST_Contains(polygon::geometry, coordinate::geometry)
