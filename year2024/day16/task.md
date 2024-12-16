@@ -10,3 +10,15 @@ Our goal is to analyze where Santa is spending most of his time, identify potent
 
 Now we need to find out where he's spending most of his time so he can try to find efficiencies.
 
+## The challenge 🎁
+
+Download challenge data
+
+In which timezone has Santa spent the most time?
+
+Assume that each timestamp is when Santa entered the timezone.
+
+Ignore the last timestamp when Santa is in Lapland.
+
+
+You answered correctly 🎉
