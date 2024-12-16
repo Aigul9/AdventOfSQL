@@ -19,3 +19,4 @@ My solutions to SQL-challenges published on https://adventofsql.com/
 13. Window functions, Temporary tables, Array agg
 14. Array functions, JSON functions
 15. Geometry
+16. Lag, Geometry, Lead, CTE
