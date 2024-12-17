@@ -20,3 +20,4 @@ My solutions to SQL-challenges published on https://adventofsql.com/
 14. Array functions, JSON functions
 15. Geometry
 16. Lag, Geometry, Lead, CTE
+17. CTE, Timezone
