@@ -22,5 +22,5 @@ My solutions to SQL-challenges published on https://adventofsql.com/
 16. Lag, Geometry, Lead, CTE
 17. CTE, Timezone
 18. todo
-19. todo
+19. Cross Join, SUM, ROUND
 20. JSON, CTE, JSON_OBJECT_AGG
