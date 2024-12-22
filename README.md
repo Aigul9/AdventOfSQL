@@ -24,3 +24,4 @@ My solutions to SQL-challenges published on https://adventofsql.com/
 18. todo
 19. Cross Join, SUM, ROUND
 20. JSON, CTE, JSON_OBJECT_AGG
+21. Extract, Lag, CTE
