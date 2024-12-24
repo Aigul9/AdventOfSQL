@@ -26,3 +26,5 @@ My solutions to SQL-challenges published on https://adventofsql.com/
 20. JSON, CTE, JSON_OBJECT_AGG
 21. Extract, Lag, CTE
 22. Split, Cross Join
+23. CTE, Lead, Island problem
+24. CTE, Count
