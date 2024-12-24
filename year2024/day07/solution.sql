@@ -16,15 +16,15 @@ last_elves as (
     where last_rnk = 1
 ),
 joined as (
-  select
-      f.elf_id as elf_1_id,
-      l.elf_id as elf_2_id,
-      f.primary_skill as shared_skill,
-  	  ROW_NUMBER() over(partition by f.primary_skill order by f.elf_id, l.elf_id) as rn
-  from first_elves f
-     join last_elves l
-         on f.primary_skill = l.primary_skill
- )
+    select
+        f.elf_id as elf_1_id,
+        l.elf_id as elf_2_id,
+        f.primary_skill as shared_skill,
+        ROW_NUMBER() over(partition by f.primary_skill order by f.elf_id, l.elf_id) as rn
+    from first_elves f
+        join last_elves l
+            on f.primary_skill = l.primary_skill
+)
 select *
 from joined
 where rn = 1
