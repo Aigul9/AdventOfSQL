@@ -3,8 +3,9 @@
 My solutions to SQL-challenges published on:
 - https://adventofsql.com/ (2024)
 - https://www.interviewmaster.ai/advent/home (2025)
+- https://databaseschool.com/series/advent-of-sql/ (2025)
 
-### Skills recalled (2024)
+### Skills recalled
 
 1. JSON, Case, Joins
 2. UNION, CTE, ASCII, STRING_AGG, Regex
