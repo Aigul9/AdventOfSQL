@@ -33,3 +33,20 @@ INSERT INTO official_shifts (id, volunteer_name, role, shift_time, age_group, co
     (13, 'Ethan Brown', 'stage_setup', '2:00 PM', 'adult', 'A1'),
     (14, 'Lucia Fernandez', 'choir_assistant', '12:00 PM', 'senior', 'X7'),
     (15, 'Casey Morgan', 'choir_assistant', '12:00 PM', 'teen', 'OLD');
+
+INSERT INTO last_minute_signups (id, volunteer_name, assigned_task, time_slot) VALUES
+    (1, 'Jude Thompson', 'Choir', 'noon'),
+    (2, 'Mateo Cruz', 'choir', 'noon'),
+    (3, 'Olivia Dubois', 'choir', '2 PM'),
+    (4, 'Jeff Bezos', 'choir assistant', '10AM'),
+    (5, 'Kian Rahimi', 'stage setup', 'noon'),
+    (6, 'Haruto Sato', 'cocoa station', '10AM'),
+    (7, 'Uma Singh', 'parking_support', '10AM'),
+    (8, 'Owen Scott', 'parking', '10AM'),
+    (9, 'Adil Rahman', 'Stage-Setup', '2 PM'),
+    (10, 'Aaron Diaz', 'Choir', '2 PM'),
+    (11, 'Carter Lewis', 'Cocoa Station', '10AM'),
+    (12, 'Anya Pavlov', 'stage_setup', '10AM'),
+    (13, 'Olivia Brown', 'stage setup', '2 PM'),
+    (14, 'Lena Fischer', 'cocoa station', '2 pm'),
+    (15, 'Nolan Murphy', 'parking-support', '10AM');
