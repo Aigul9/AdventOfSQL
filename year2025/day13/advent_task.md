@@ -1,4 +1,4 @@
-## Summary
+## Advent of SQL Day 4: WinterFest volunteer mishap ☃️
 
 Every December, the mountain town of Pinebrook transforms into a snow-globe scene for WinterFest, a beloved celebration filled with ice sculptures, choir performances, sleigh rides, and enough hot cocoa to keep the whole valley buzzing. The event is powered almost entirely by volunteers, who sign up ahead of time for one of three daily timeslots: 10:00 AM, 12:00 PM, or 2:00 PM.
 

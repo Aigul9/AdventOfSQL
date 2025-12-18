@@ -1,4 +1,4 @@
-## Summary
+## Advent of SQL Day 8: Pricing snapshot 📈
 
 As the holiday shopping season ramps up, retailers quietly adjust prices across their product catalog. Some items are discounted to boost sales, while others increase as inventory tightens and demand spikes.
 

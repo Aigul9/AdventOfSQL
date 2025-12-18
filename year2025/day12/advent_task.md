@@ -1,4 +1,4 @@
-## Summary
+## Advent of SQL Day 3: The hotline pranks 🐧
 
 By the end of the second week of December, the Ho-Ho Hotline was ringing around the clock.
 

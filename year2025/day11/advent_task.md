@@ -1,4 +1,4 @@
-## Summary
+## Advent of SQL Day 2: The great snowball meltdown
 
 On the frosty morning of December 11th, the Snowball Quality Lab erupted into chaos. Snowpea, the North Pole’s Chief Snowball Engineer, burst into Santa’s workshop with a dripping cup of slush held at arm’s length. “Disaster!” she wailed. “The cooling chambers glitched again!”
 

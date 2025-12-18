@@ -1,4 +1,4 @@
-## Summary
+## Advent of SQL Day 7: Cocoa chaos ☕
 
 By the time the Polar Express crossed the frozen lake outside the North Pole, the cocoa situation had turned… complicated.
 

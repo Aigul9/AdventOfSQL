@@ -1,4 +1,4 @@
-## Summary
+## Advent of SQL Day 6: 25 days of delight 🎁
 
 By December 14th, the customer support floor at BrightBox, a fast-growing holiday-season subscription box company, was buzzing louder than the label printers. Each December, BrightBox offered a special promotion: "25 Days of Delight" — one small surprise delivered to participating households every day from December 1st through December 25th.
 

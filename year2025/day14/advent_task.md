@@ -1,4 +1,4 @@
-## Summary
+## Advent of SQL Day 5: Wrapped 🎵
 
 Every December, people everywhere eagerly wait for their personalized end-of-year listening recap. The music. The podcasts. The surprises. The guilt about how many times they played that one comfort song on repeat.
 
