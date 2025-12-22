@@ -3,7 +3,7 @@ with rolling as (
     child_id,
     child_name,
     behavior_date,
-    avg(score) OVER (
+    avg(score) over (
       partition by child_id order by behavior_date
       rows between 6 preceding and current row
     ) as avg_rolling_7_days
