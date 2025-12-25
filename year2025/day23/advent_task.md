@@ -1,4 +1,4 @@
-## Advent of SQL Day 14: Network Routes
+## Advent of SQL Day 14: Mountain Network
 
 A group of friends headed up to Sundance Ski Resort for a long-awaited winter getaway. As with any group trip, opinions quickly diverged once skis were on and boots were buckled. Some friends wanted a fast, efficient run straight to lunch. Others wanted to soak it all in—longer routes, more turns, and a scenic cruise down the mountain.
 
